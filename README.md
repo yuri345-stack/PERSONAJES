@@ -9,7 +9,8 @@
 <body>
     <header>
         <nav class="Menu">
-           <a href="https://yuri345-stack.github.io/">Haz clic aquí para ir a la Pokedex de la Primera generacion</a>
+            <a href="">Pokedex</a>
+              /*aqui va el otro link de los habitads/*
         </nav>
     <h1 class="titulo">Registro de Entrenadores Pokémon </h1>
     <p class="descripcion">
