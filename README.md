@@ -91,13 +91,5 @@
         </div>
     </div>
 </section>
-<div class="pokeball pokeball1"></div>
-<div class="pokeball pokeball2"></div>
-<div class="pokeball pokeball3"></div>
-<div class="pokeball pokeball4"></div>
-<div class="pokeball pokeball5"></div>
-
-
-
 </body>
 </html>
