@@ -8,7 +8,7 @@
 <body>
     <header>
         <nav class="Menu">
-            <a href="https://yuri345-stack.github.io/">Pokedex Donde Puedes Encontar Todos los Pokemons de la Primera Genracion</a>
+            <a href="https://yuri345-stack.github.io/Pokedex/">Pokedex Donde Puedes Encontar Todos los Pokemons de la Primera Generacion</a>
         </nav>
     <h1 class="titulo">Registro de Entrenadores Pokémon </h1>
     <p class="descripcion">
