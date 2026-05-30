@@ -1,5 +1,4 @@
 <html>
-<lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -10,7 +9,6 @@
     <header>
         <nav class="Menu">
             <a href="https://yuri345-stack.github.io/">Pokedex</a>
-              /*aqui va el otro link de los habitads/*
         </nav>
     <h1 class="titulo">Registro de Entrenadores Pokémon </h1>
     <p class="descripcion">
